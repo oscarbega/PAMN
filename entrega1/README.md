@@ -1,7 +1,7 @@
 # Accesibilidad en aplicaciones y páginas web
 
 Informe en pdf sobre la accesibilidad de aplicaciones y páginas web siguiendo la WCAG
-[Documento pdf](entrega1/Accesibility.pdf)
+[Documento pdf](Accesibility.pdf)
 ## Aplicaciones estudiadas:
 
 * Web [Ultimate guitar](https://www.ultimate-guitar.com/)
