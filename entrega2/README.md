@@ -6,4 +6,4 @@
 - Óscar Bellón García
 - Saúl Santana Santana
 
- [link al PDF](pamn-Practica2 Diseño de interfaces.pdf)
+ [link al PDF](pamn-Practica2-Diseño-de-interfaces.pdf)
