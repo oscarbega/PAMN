@@ -1,5 +1,5 @@
 # Diseño arquitectonico de una aplicación
-## Segunda entrega de la asignatura Programación de Aplicaciones Moviles Nativas
+## Tercera entrega de la asignatura Programación de Aplicaciones Moviles Nativas
 
 ### Desarrollada por:
 - Sara Sánchez García
