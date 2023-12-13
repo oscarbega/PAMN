@@ -6,6 +6,6 @@
 - Óscar Bellón García
 - Saúl Santana Santana
 
- [link al PDF](Informe 2 sprint (1) (1).pdf)
- [link a la Presentación](Presentación (1).pdf)
+ [link al PDF](Informe.pdf)
+ [link a la Presentación](Presentacion.pdf)
  [link al repositorio de la Aplicacion](https://github.com/SaulSantanaSantana/Apolo-Helper)
